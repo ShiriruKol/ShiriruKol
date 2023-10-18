@@ -4,7 +4,8 @@
 
 ## 🌐 Социальные сети:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2-32078928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2-32078928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://t.me/KiselevKirill31" target="blank"><img align="center" src="https://icons8.com/icon/63306/telegram-app" alt="Telegram" height="30" width="40" /></a>
 </p>
 
 # 💻 Технический стек:
