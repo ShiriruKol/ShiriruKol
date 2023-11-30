@@ -5,7 +5,7 @@
 ## 🌐 Социальные сети:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%D0%BA%D0%B8%D1%80%D0%B8%D0%BB%D0%BB-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2-32078928b/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://t.me/KiselevKirill31" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/telegram/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/KiselevKirill31" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/telegram/telegram.sv" alt="Telegram" height="30" width="40" /></a>
 <a href="https://hh.ru/resume/e71931b6ff091050430039ed1f6b6a68364e7a" target="blank"><img align="center" src="https://i-dev.hh.ru/images/logos/hh-red-large.svg" alt="HeadHunter" height="30" width="40" /></a>
 </p>
 
